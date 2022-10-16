@@ -97,7 +97,7 @@ h1,h2 {
                                 padding-top: 30px;
                                 width: 33%;
                                 float: right;
-                                background-color: silver;
+                                
                         }
                         
                         #center-about {
@@ -114,4 +114,21 @@ h1,h2 {
                                                         margin: 50px;
 
                                 }
+
+                                .right-about-heading {
+                                        width: 60%;
+                                        float: right;
+                                        line-height: 20px;
+                                        clear: both;
+                                        margin: 50px;
+
+                }
+
+                .right-about-heading h2 {
+                                                text-align: right;
+                }
+
+                .right-about-heading p {
+                        text-align: right;
+}
 
