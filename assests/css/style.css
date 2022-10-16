@@ -139,6 +139,13 @@ h1,h2 {
   
 }
 
+#why-2 {
+        text-align: center;
+        margin: 20px 0;
+        font-size: 280%;
+  
+}
+
 #circle-container {
                         width: 300px;
                         height: 300px;
@@ -159,4 +166,17 @@ h1,h2 {
         background-size: contain;
         border-radius: 50%;
 }
+
+#location-list {
+                background-image: url('../images/hero-image\ 1.5.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                width: 100%;
+                overflow: hidden;
+}
+
+
+
+
 
