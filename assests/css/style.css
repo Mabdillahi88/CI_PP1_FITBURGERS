@@ -152,8 +152,8 @@ h1,h2 {
 }
 
 #circle-container {
-                        width: 600px;
-                        height: 600px;
+                        width: 300px;
+                        height: 300px;
                         padding: 30px;
                         border-style: solid;
                         border-color: #cccc;
@@ -194,4 +194,24 @@ h1,h2 {
         text-align: center;
         border: 2px solid black;
         
+}
+
+footer {
+        height: 150px;
+}
+
+.social-networks {
+                        text-align: center;
+
+}
+
+.social-networks > li {
+                        display: inline;
+}
+
+.social-networks i {
+                        font-size: 300%;
+                        margin: 1%;
+                        padding: 5%;
+                        color: #3a3a3a;
 }
