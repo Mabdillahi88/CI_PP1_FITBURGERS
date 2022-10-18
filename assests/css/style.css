@@ -132,9 +132,18 @@ h1,h2 {
                                                 
                 }
 
+                .left-about-heading h2 {
+                        text-align: left;
+                        
+}
+
                 .right-about-heading p {
                         text-align: right;
                         
+}
+.left-about-heading p {
+        text-align: left;
+        
 }
 
 #why {
@@ -267,5 +276,24 @@ footer {
                         line-height: 25px;
         }
 
+        #why {
+                width: 90%;
+                height: 1200px;
+                margin: 0 auto;
+        }
+
+
+        .left-about-heading, .right-about-heading {
+                                                        width: inherit;
+        }
+
+        .left-about-heading h2, .right-about-heading h2 {
+                                                             width: 100%;
+                                                             text-align: center;   
+        }
+
+        .left-about-heading p, .right-about-heading p {
+
+        }
 }
      
